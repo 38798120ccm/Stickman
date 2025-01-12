@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5b51f58327e40594986ee0f500aaf0d0
+labels:
+- Advanced
+- Architecture
+- Audio
+- Character
+- Effect
+- Ground
+- Prop
+- Road
+- Sky
+- Terrain
+- Vegetation
+- Vehicle
+- Wall
+- Water
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
